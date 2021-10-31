@@ -1,0 +1,9 @@
+C:\Users\Веталь\Desktop\Лабораторна робота ООП\lab1\bin\Debug\lab1.exe.config
+C:\Users\Веталь\Desktop\Лабораторна робота ООП\lab1\bin\Debug\lab1.exe
+C:\Users\Веталь\Desktop\Лабораторна робота ООП\lab1\bin\Debug\lab1.pdb
+C:\Users\Веталь\Desktop\Лабораторна робота ООП\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\Веталь\Desktop\Лабораторна робота ООП\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\Веталь\Desktop\Лабораторна робота ООП\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\Веталь\Desktop\Лабораторна робота ООП\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Веталь\Desktop\Лабораторна робота ООП\lab1\obj\Debug\lab1.exe
+C:\Users\Веталь\Desktop\Лабораторна робота ООП\lab1\obj\Debug\lab1.pdb
