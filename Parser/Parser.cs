@@ -33,7 +33,7 @@ namespace ParserSpace
                 default: return 8;
             }
         }
-        private List<string> separate(string t)
+        public List<string> separate(string t)
         {
             var answer = new List<string>();
             var line = "";
@@ -68,7 +68,7 @@ namespace ParserSpace
             if (line.Length != 0) answer.Add(line);
             return answer;
         }
-        private List<string> postfix(string line)
+        public List<string> postfix(string line)
         {
             var lineS = separate(line);
             Stack<string> stack = new Stack<string>();

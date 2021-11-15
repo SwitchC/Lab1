@@ -10,3 +10,15 @@ C:\Users\Веталь\Desktop\Лабораторна робота ООП 3\Parse
 C:\Users\Веталь\Desktop\Лабораторна робота ООП 3\Parser\obj\Debug\net5.0\Parser.dll
 C:\Users\Веталь\Desktop\Лабораторна робота ООП 3\Parser\obj\Debug\net5.0\ref\Parser.dll
 C:\Users\Веталь\Desktop\Лабораторна робота ООП 3\Parser\obj\Debug\net5.0\Parser.pdb
+D:\git\Lab1\Parser\bin\Debug\net5.0\Parser.deps.json
+D:\git\Lab1\Parser\bin\Debug\net5.0\Parser.dll
+D:\git\Lab1\Parser\bin\Debug\net5.0\ref\Parser.dll
+D:\git\Lab1\Parser\bin\Debug\net5.0\Parser.pdb
+D:\git\Lab1\Parser\obj\Debug\net5.0\Parser.csproj.AssemblyReference.cache
+D:\git\Lab1\Parser\obj\Debug\net5.0\Parser.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Lab1\Parser\obj\Debug\net5.0\Parser.AssemblyInfoInputs.cache
+D:\git\Lab1\Parser\obj\Debug\net5.0\Parser.AssemblyInfo.cs
+D:\git\Lab1\Parser\obj\Debug\net5.0\Parser.csproj.CoreCompileInputs.cache
+D:\git\Lab1\Parser\obj\Debug\net5.0\Parser.dll
+D:\git\Lab1\Parser\obj\Debug\net5.0\ref\Parser.dll
+D:\git\Lab1\Parser\obj\Debug\net5.0\Parser.pdb

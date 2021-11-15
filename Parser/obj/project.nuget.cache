@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zv/lwZ5QlL2qW/a9gMOQ51S2TwhN+9wdoBrg1hSzYSWNW+C4P+0Loo/TWCDcBXmUe9ySVif+TILCBijwUExbZw==",
+  "dgSpecHash": "mTvwU9kdGTB0lIK4jtp5X6Jcev4rmgSVxlNh1j5+kzSdPKzrGA70wCf4v1rorerBvZ/Zu4wrxq0aJNycHJvN5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Веталь\\Desktop\\Лабораторна робота ООП 3\\Parser\\Parser.csproj",
+  "projectFilePath": "D:\\git\\Lab1\\Parser\\Parser.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

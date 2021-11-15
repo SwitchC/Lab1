@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel", "Excel.csproj", "{4B3D0836-C3D8-4AD3-88B7-098CD085A6CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excel", "Excel.csproj", "{4B3D0836-C3D8-4AD3-88B7-098CD085A6CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parser", "..\Parser\Parser.csproj", "{3642348D-BB6C-438F-B5F2-0D8984703FA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parser", "..\Parser\Parser.csproj", "{3642348D-BB6C-438F-B5F2-0D8984703FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestResult", "..\TestResult\TestResult.csproj", "{04BE4C34-F26F-4B82-9AB2-F5D1AC1FAE99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPostfix", "..\TestPostfix\TestPostfix.csproj", "{DB1B89D6-BD05-4167-8D76-E9ADD0BCDC28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSeparate", "..\TestSeparate\TestSeparate.csproj", "{FBBB34E5-9CEE-4626-86CA-07D7B5C83890}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{3642348D-BB6C-438F-B5F2-0D8984703FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3642348D-BB6C-438F-B5F2-0D8984703FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3642348D-BB6C-438F-B5F2-0D8984703FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04BE4C34-F26F-4B82-9AB2-F5D1AC1FAE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BE4C34-F26F-4B82-9AB2-F5D1AC1FAE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BE4C34-F26F-4B82-9AB2-F5D1AC1FAE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BE4C34-F26F-4B82-9AB2-F5D1AC1FAE99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB1B89D6-BD05-4167-8D76-E9ADD0BCDC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1B89D6-BD05-4167-8D76-E9ADD0BCDC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1B89D6-BD05-4167-8D76-E9ADD0BCDC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1B89D6-BD05-4167-8D76-E9ADD0BCDC28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBB34E5-9CEE-4626-86CA-07D7B5C83890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBB34E5-9CEE-4626-86CA-07D7B5C83890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBB34E5-9CEE-4626-86CA-07D7B5C83890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBB34E5-9CEE-4626-86CA-07D7B5C83890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

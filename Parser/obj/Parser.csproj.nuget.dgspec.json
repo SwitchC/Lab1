@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Веталь\\Desktop\\Лабораторна робота ООП 3\\Parser\\Parser.csproj": {}
+    "D:\\git\\Lab1\\Parser\\Parser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Веталь\\Desktop\\Лабораторна робота ООП 3\\Parser\\Parser.csproj": {
+    "D:\\git\\Lab1\\Parser\\Parser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Веталь\\Desktop\\Лабораторна робота ООП 3\\Parser\\Parser.csproj",
+        "projectUniqueName": "D:\\git\\Lab1\\Parser\\Parser.csproj",
         "projectName": "Parser",
-        "projectPath": "C:\\Users\\Веталь\\Desktop\\Лабораторна робота ООП 3\\Parser\\Parser.csproj",
+        "projectPath": "D:\\git\\Lab1\\Parser\\Parser.csproj",
         "packagesPath": "C:\\Users\\Веталь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Веталь\\Desktop\\Лабораторна робота ООП 3\\Parser\\obj\\",
+        "outputPath": "D:\\git\\Lab1\\Parser\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

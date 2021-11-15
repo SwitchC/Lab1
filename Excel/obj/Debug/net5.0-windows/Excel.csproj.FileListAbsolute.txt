@@ -19,3 +19,25 @@ C:\Users\Веталь\Desktop\Лабораторна робота ООП 3\Excel
 C:\Users\Веталь\Desktop\Лабораторна робота ООП 3\Excel\obj\Debug\net5.0-windows\Excel.pdb
 C:\Users\Веталь\Desktop\Лабораторна робота ООП 3\Excel\obj\Debug\net5.0-windows\Excel.genruntimeconfig.cache
 C:\Users\Веталь\Desktop\Лабораторна робота ООП 3\Excel\obj\Debug\net5.0-windows\Excel.Save.resources
+D:\git\Lab1\Excel\bin\Debug\net5.0-windows\Excel.exe
+D:\git\Lab1\Excel\bin\Debug\net5.0-windows\Excel.deps.json
+D:\git\Lab1\Excel\bin\Debug\net5.0-windows\Excel.runtimeconfig.json
+D:\git\Lab1\Excel\bin\Debug\net5.0-windows\Excel.runtimeconfig.dev.json
+D:\git\Lab1\Excel\bin\Debug\net5.0-windows\Excel.dll
+D:\git\Lab1\Excel\bin\Debug\net5.0-windows\ref\Excel.dll
+D:\git\Lab1\Excel\bin\Debug\net5.0-windows\Excel.pdb
+D:\git\Lab1\Excel\bin\Debug\net5.0-windows\Parser.dll
+D:\git\Lab1\Excel\bin\Debug\net5.0-windows\Parser.pdb
+D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.csproj.AssemblyReference.cache
+D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.Excel.resources
+D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.Save.resources
+D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.csproj.GenerateResource.cache
+D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.AssemblyInfoInputs.cache
+D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.AssemblyInfo.cs
+D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.csproj.CoreCompileInputs.cache
+D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.csproj.CopyComplete
+D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.dll
+D:\git\Lab1\Excel\obj\Debug\net5.0-windows\ref\Excel.dll
+D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.pdb
+D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.genruntimeconfig.cache
