@@ -212,7 +212,7 @@ namespace Excel
             {
                 alphabet.Add(alp[i]);
             }
-            CreateTable(26, 26);
+            CreateTable(5, 5);
         }
         
         private void CreateTable(int row, int column)

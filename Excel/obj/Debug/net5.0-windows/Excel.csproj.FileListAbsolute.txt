@@ -36,7 +36,6 @@ D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.GeneratedMSBuildEditorConfig.ed
 D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.AssemblyInfoInputs.cache
 D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.AssemblyInfo.cs
 D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.csproj.CoreCompileInputs.cache
-D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.csproj.CopyComplete
 D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.dll
 D:\git\Lab1\Excel\obj\Debug\net5.0-windows\ref\Excel.dll
 D:\git\Lab1\Excel\obj\Debug\net5.0-windows\Excel.pdb
