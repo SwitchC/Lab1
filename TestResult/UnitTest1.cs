@@ -16,7 +16,7 @@ namespace TestResult
             string line = "max( 1 2. 1 5)*min(~1.12)+12^2";
             string actual = parser.result(line);
             string expected = "129";
-            Assert.Pass(expected, actual);
+            Assert.AreEqual(expected, actual);
         }
         [Test]
         public void Test2()
@@ -25,7 +25,7 @@ namespace TestResult
             string line = "12+11*~1";
             string actual = parser.result(line);
             string expected = "1";
-            Assert.Pass(expected, actual);
+            Assert.AreEqual(expected, actual);
         }
         [Test]
         public void Test3()
@@ -34,7 +34,7 @@ namespace TestResult
             string line = "max(12.))";
             string actual = parser.result(line);
             string expected = "Error";
-            Assert.Pass(expected, actual);
+            Assert.AreEqual(expected, actual);
         }
     }
 }

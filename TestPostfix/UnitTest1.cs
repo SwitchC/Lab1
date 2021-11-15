@@ -22,7 +22,7 @@ namespace TestPostfix
                 actual += " " + i;
             }
             string expect = " 12 11 +";
-            Assert.Pass(expect, actual);
+            Assert.AreEqual(expect, actual);
         }
         [Test]
         public void Test2()
@@ -36,7 +36,7 @@ namespace TestPostfix
                 actual += " " + i;
             }
             string expect = " 12 11 max";
-            Assert.Pass(expect, actual);
+            Assert.AreEqual(expect, actual);
         }
         [Test]
         public void Test3()
@@ -49,8 +49,8 @@ namespace TestPostfix
             {
                 actual += " " + i;
             }
-            string expect = " 1 ~ 25 + ^ 13";
-            Assert.Pass(expect, actual);
+            string expect = " 1 ~ 25 13 ^ +";
+            Assert.AreEqual(expect, actual);
         }
     }
 }
