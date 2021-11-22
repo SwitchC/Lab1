@@ -8,6 +8,7 @@ namespace Excel
 {
     static class Program
     {
+        public static Excel MainForm = new Excel();
         [STAThread]
         static void Main()
         {

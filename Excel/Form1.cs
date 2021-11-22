@@ -11,25 +11,7 @@ using ParserSpace;
 
 namespace Excel
 {
-    public partial class Excel : Form
-    {
-        public const int maxColumn = 26;
-        public const int maxRow = 100000;
-        private int NumberRow = 0;
-        private int NumberColumn = 0;
-        private List<DataGridViewColumn> alphabet = new List<DataGridViewColumn>();
-        public static string FromNumberToWord(int a)
-        {
-            return ((char)(a + 'A' - 1)).ToString();
-        }
-        Parser parser = new Parser();
-        Namer handler = new Namer();
-        public int currRow, currCol;
-        public Dictionary<string, Cell> dictionary = new Dictionary<string, Cell>();
-        public Dictionary<string, List<string>> dependson = new Dictionary<string, List<string>>();
-        public Dictionary<string, List<string>> dependentfrom = new Dictionary<string, List<string>>();
-        public Dictionary<string, int> entrance = new Dictionary<string, int>();
-        public class Cell : DataGridViewTextBoxCell
+    public class Cell : DataGridViewTextBoxCell
         {
             string val;
             string name;
@@ -62,7 +44,7 @@ namespace Excel
                 set { exp = value; }
             }
         }
-        public class Namer
+    public class Namer
         {
             public bool IsName(string s)
             {
@@ -124,6 +106,30 @@ namespace Excel
                 }
                 return res;
             }
+        }
+
+    public partial class Excel : Form
+    {
+        public const int maxColumn = 26;
+        public const int maxRow = 100000;
+        private int NumberRow = 0;
+        private int NumberColumn = 0;
+        private List<DataGridViewColumn> alphabet = new List<DataGridViewColumn>();
+        public static string FromNumberToWord(int a)
+        {
+            return ((char)(a + 'A' - 1)).ToString();
+        }
+        Parser parser = new Parser();
+        Namer handler = new Namer();
+        public int currRow, currCol;
+        public Dictionary<string, Cell> dictionary = new Dictionary<string, Cell>();
+        public Dictionary<string, List<string>> dependson = new Dictionary<string, List<string>>();
+        public Dictionary<string, List<string>> dependentfrom = new Dictionary<string, List<string>>();
+        public Dictionary<string, int> entrance = new Dictionary<string, int>();
+
+        public Dictionary<string, Cell> getDict()
+        {
+            return this.dictionary;
         }
         public Excel()
         {
