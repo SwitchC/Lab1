@@ -15,7 +15,7 @@ namespace Excel
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Excel());
+            Application.Run(MainForm);
         }
     }
 }

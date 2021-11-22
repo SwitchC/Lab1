@@ -129,6 +129,7 @@ namespace Excel
             this.open.TabIndex = 1;
             this.open.Text = "Open";
             this.open.UseVisualStyleBackColor = true;
+            this.open.Click += new System.EventHandler(this.open_Click);
             // 
             // tableLayoutPanel4
             // 

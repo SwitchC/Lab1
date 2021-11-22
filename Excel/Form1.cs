@@ -13,10 +13,10 @@ namespace Excel
 {
     public partial class Excel : Form
     {
-        public const int maxColumn = 26;
-        public const int maxRow = 100000;
-        private int NumberRow = 0;
-        private int NumberColumn = 0;
+        public int maxColumn = 26;
+        public int maxRow = 100000;
+        public int NumberRow = 0;
+        public int NumberColumn = 0;
         private List<DataGridViewColumn> alphabet = new List<DataGridViewColumn>();
         public static string FromNumberToWord(int a)
         {
@@ -150,7 +150,7 @@ namespace Excel
 
         }
 
-        private void AddRow_Click(object sender, EventArgs e)
+        public void AddRow_Click(object sender, EventArgs e)
         {
             NumberRow++;
             if (NumberRow > maxRow)
@@ -167,8 +167,7 @@ namespace Excel
             catch (Exception)
             { }
         }
-
-        private void AddColumn_Click(object sender, EventArgs e)
+        public void AddColumn_Click(object sender, EventArgs e)
         {
             NumberColumn++;
             if (NumberColumn > maxColumn)
@@ -286,7 +285,7 @@ namespace Excel
             catch { }
         }
 
-        private void DelRow_Click(object sender, EventArgs e)
+        public void DelRow_Click(object sender, EventArgs e)
         {
             if (NumberRow > 0)
             {
@@ -317,7 +316,7 @@ namespace Excel
             { }
         }
 
-        private void DelColumn_Click(object sender, EventArgs e)
+        public void DelColumn_Click(object sender, EventArgs e)
         {
             if (NumberColumn > 0)
             {
@@ -356,6 +355,12 @@ namespace Excel
         {
             Save formSaveFile = new Save();
             formSaveFile.Show();
+        }
+
+        private void open_Click(object sender, EventArgs e)
+        {
+            Load FormLoad = new Load();
+            FormLoad.Show();
         }
 
         public string CalcCell(Cell c, DataGridView dgv)
